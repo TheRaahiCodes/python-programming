@@ -1,3 +1,3 @@
 print("Namaste World")
 name = input("what is your name? ")
-print(f"MY name  {name}")
+print(f"MY name is  {name}")
